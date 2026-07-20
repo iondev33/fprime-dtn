@@ -12,7 +12,7 @@
 [submodule "lib/pyion"]
 	path = lib/pyion
 	url = https://github.com/nasa-jpl/pyion.git
-	branch = v4.1.4-a.2
+	branch = v4.2.0-b
 [submodule "lib/ion"]
 	path = lib/ion
 	url = https://github.com/nasa-jpl/ion-dtn.git
